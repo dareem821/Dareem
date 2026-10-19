@@ -384,6 +384,30 @@ Fill this in with your actual figures:
   month)** on rent, handling and related costs.
 - **Simple payback** = TT$7 M ÷ (A − B).
 
+#### Your numbers (current rent: TT$170,000 / month at TT$0.155 per lb)
+
+| | Value |
+|---|---|
+| Weight in storage | 170,000 ÷ 0.155 ≈ **1.1 million lb (~500 tonnes)** |
+| Equivalent pallets (1,500–2,200 lb each) | **~500–730 pallets**, which fits the 800-pallet design with room to grow |
+| Effective rent per pallet | ~TT$230–340 per pallet per month |
+| **A** — rent per year | **TT$2.04 M** (more if handling or transport is charged separately) |
+| **B** — cost of owning per year | TT$0.85 – 1.25 M |
+| **A − B** — cash saving per year (before loan) | **TT$0.79 – 1.19 M** |
+| **C** — loan on TT$7 M (8 %, 15 years) | TT$0.82 M |
+| Cash left after loan payment | about break-even to **+TT$0.37 M per year** |
+| Simple payback on TT$7 M | **~6–9 years** |
+| Payback if the build costs TT$9 M | ~7.5–11.5 years |
+
+**15-year comparison (no rent increases assumed):**
+- Keep renting: 15 × TT$2.04 M ≈ **TT$30.6 M paid, nothing owned.**
+- Own: running costs TT$12.8–18.8 M + loan payments TT$12.3 M ≈ **TT$25–31 M, and you
+  own the building**, after which yearly costs drop to about TT$0.85–1.25 M.
+- Any rent increase or business growth widens the gap in favour of owning.
+
+The main thing that would break this is a **budget overrun**. Fix the price with a
+design-build contract and keep the contingency.
+
 **Other benefits to count on top of the rent saving:**
 - **Room to grow** to 800 pallets without hunting for rented space.
 - **Renting out spare space** to other importers until you fill it yourself
