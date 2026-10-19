@@ -370,7 +370,7 @@ Fill this in with your actual figures:
 | Refrigeration service contract + maintenance | 0.10 – 0.15 M |
 | Insurance (building + stock) | 0.10 – 0.15 M |
 | Security | 0.15 – 0.25 M |
-| Extra warehouse staff if your landlord currently does the handling (3–4 people) | 0.25 – 0.35 M |
+| Extra warehouse staff to take over the handling your landlord does today (3–4 people) | 0.25 – 0.35 M |
 | Land tax, water, miscellaneous | ~0.05 M |
 | **Total cost of owning (before loan)** | **B ≈ TT$0.85 – 1.25 M** |
 
@@ -391,7 +391,7 @@ Fill this in with your actual figures:
 | Weight in storage | 170,000 ÷ 0.155 ≈ **1.1 million lb (~500 tonnes)** |
 | Equivalent pallets (1,500–2,200 lb each) | **~500–730 pallets**, which fits the 800-pallet design with room to grow |
 | Effective rent per pallet | ~TT$230–340 per pallet per month |
-| **A** — rent per year | **TT$2.04 M** (more if handling or transport is charged separately) |
+| **A** — rent per year | **TT$2.04 M**, charged per lb per month and **including handling** |
 | **B** — cost of owning per year | TT$0.85 – 1.25 M |
 | **A − B** — cash saving per year (before loan) | **TT$0.79 – 1.19 M** |
 | **C** — loan on TT$7 M (8 %, 15 years) | TT$0.82 M |
