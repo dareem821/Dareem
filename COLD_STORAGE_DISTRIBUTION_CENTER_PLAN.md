@@ -15,16 +15,16 @@
 
 | Item | Plan |
 |---|---|
-| Business model | Importer / wholesale distributor that owns its stock and sells cases to restaurants and pallets to wholesalers |
+| Business model | Existing importer / wholesale distributor (stock and customers already in place) moving from **rented** cold storage to its **own** facility |
 | Storage capacity | ~800 pallet positions: ~560 frozen, ~200 chilled, ~40 dry |
 | Building | ~1,250 m² (~13,500 ft²) single-storey cold store with a chilled loading dock |
 | Site | ~1 acre (≈ 4,050 m² / 43,560 ft²). Building covers ~31 %; the rest is container yard, parking and drainage |
 | Inbound | Refrigerated 40 ft containers via Port of Port of Spain or Point Lisas (~20 pallets each) |
 | Outbound | 3–4 refrigerated delivery trucks covering Trinidad; Tobago served via the inter-island ferry or a Tobago partner |
 | Staff | ~20–28 people |
-| Construction cost (excl. land) | **US$2.9–4.5 M (TT$20–31 M)** |
-| Working capital (stock + customer credit) | **US$1.5–3.5 M**, growing with sales. This can be as large as the building cost |
-| Timeline | ~16–20 months to open. Start trading from rented cold space in the meantime (see §11) |
+| Build budget (excl. land) | **Target TT$7 M** with a lean steel-shed + prefabricated cold-room build (realistic range TT$7–11 M; see §9.1) |
+| Working capital | Already funded by the existing business. Extra is only needed to grow stock (see §9.3) |
+| Timeline | ~16–20 months to open, while trading continues from the current rented cold store |
 
 ---
 
@@ -316,74 +316,96 @@ certification, ERP/scanner use, defensive driving.
 
 ## 9. Financial Plan (planning estimates)
 
-### 9.1 Construction & start-up cost (excluding land)
+> The business already has stock, customers and a rented cold store. The investment
+> question is therefore **"does owning a cold store beat renting one?"**, not how
+> to fund a start-up.
 
-| Item | US$ (low – high) |
+### 9.1 Build budget: TT$7 M target (lean build)
+
+The lowest-cost proven approach is a **standard steel warehouse shed with
+prefabricated insulated cold rooms built inside it**.
+
+| Item | TT$ (lean) |
 |---|---|
-| Site works: fill, drainage, paved yard (~2,500 m²), fence, gate | 250k – 400k |
-| Building structure and slab, incl. insulated/heated freezer floor | 600k – 900k |
-| Insulated panels, cold-room doors, dock doors, levelers, shelters | 350k – 550k |
-| Refrigeration equipment & installation | 400k – 650k |
-| Electrical: transformer, ~400 kVA generator, distribution, lighting | 250k – 400k |
-| Fire protection, CCTV, alarms, temperature monitoring | 80k – 150k |
-| Racking (~800 positions) | 80k – 120k |
-| Forklifts, pallet jacks, scales, wrapper | 150k – 220k |
-| 3–4 refrigerated delivery trucks | 250k – 400k |
-| ERP / IT / scanners | 30k – 80k |
-| Design, engineering, permits, project management | 150k – 250k |
-| Contingency (~10 %) | 260k – 410k |
-| **Total** | **≈ US$2.9 M – 4.5 M (TT$20 – 31 M)** |
+| Steel shed ~1,250 m² + floor slab (incl. insulated, heated freezer floor) | 2.5 – 3.5 M |
+| Cold-room panels, cold-room doors, 2–3 dock doors with levelers/shelters | 1.2 – 1.8 M |
+| Refrigeration units (several per room, one spare capacity) | 1.0 – 1.6 M |
+| Electrical, T&TEC connection, reconditioned standby generator | 0.8 – 1.2 M |
+| Racking, ~800 positions | 0.4 – 0.6 M |
+| Used cold-rated reach truck + pallet jacks | 0.4 – 0.7 M |
+| Site prep, concrete dock apron (gravel elsewhere), fence, gate | 0.6 – 1.0 M |
+| Drawings and approvals (design-build contractor) | 0.3 – 0.5 M |
+| **Total** | **≈ TT$7.2 – 10.9 M** |
 
-**Ways to lower this:**
-- Build Phase 1 at ~500 pallets with the walls and plant sized for 800, and add racking
-  and refrigeration units later.
-- Use a standard steel warehouse shell with **prefabricated modular cold rooms** inside.
-- Lease or buy used trucks and forklifts at first.
+**TT$7 M is achievable at the tight end**, if you:
+- go **design-build** with one contractor (shed + cold rooms + refrigeration)
+- **phase it**: build cold rooms for ~500 pallets now, with the shed, slab and
+  electrical sized for 800, and add rooms, units and racking later
+- keep using your **current delivery arrangement** (no new trucks in this budget)
+- buy the generator and reach truck **reconditioned** with a warranty
+- **retrofit** any usable existing building on the land
 
-### 9.2 Working capital (often underestimated)
-As an importer you pay for stock **before** you sell it, and restaurants usually expect
-**15–30 days of credit**.
+**Not in the TT$7 M:** delivery trucks, and contingency. Try to hold
+**~TT$0.7 M (10 %)** in reserve; overruns on cold-store projects are common.
 
-| | Year 1 | Year 3 |
-|---|---|---|
-| Stock on hand (~250 → ~580 pallets at ~US$4,000 landed each) | ~US$1.0 M | ~US$2.3 M |
-| Money owed by customers (~30 days of sales) | ~US$0.6 M | ~US$1.4 M |
-| **Working capital needed** | **~US$1.6 M** | **~US$3.5 M** (partly self-funded from profits) |
+**Do not cut:** the insulated, heated freezer floor, adequate refrigeration capacity
+with a spare unit, standby power, and proper door/dock seals. These are what protect
+the stock.
 
-**Total funding to plan for in Year 1: ~US$5.0–6.5 M (TT$34–44 M)**, covering
-construction, working capital and a cash buffer for pre-opening costs.
+### 9.2 Rent vs. own
 
-### 9.3 Illustrative sales ramp
-Assumes 20 pallets per 40 ft container, ~US$4,000 landed cost per pallet, an 18 %
-blended gross margin and 6 stock turns. Replace these with your own quotes and prices.
+Fill this in with your actual figures:
 
-| | Year 1 | Year 2 | Year 3 |
-|---|---|---|---|
-| Containers imported | 75 (~1.5/week) | 125 (~2.5/week) | 175 (~3.5/week) |
-| Pallets sold | 1,500 | 2,500 | 3,500 |
-| Average pallets in storage | ~250 (31 %) | ~420 (52 %) | ~580 (73 %) |
-| Sales | ~US$7.3 M | ~US$12.2 M | ~US$17.1 M |
-| Gross profit (18 %) | ~US$1.3 M | ~US$2.2 M | ~US$3.1 M |
-| Operating costs | ~US$0.9 M | ~US$1.05 M | ~US$1.2 M |
-| **EBITDA** | **~US$0.4 M** | **~US$1.15 M** | **~US$1.9 M** |
+| Your current costs (per year) | TT$ |
+|---|---|
+| Cold-storage rent (pallets × rate × 12) | ? |
+| Handling fees (in/out charges, blast freezing, labelling) | ? |
+| Transport between the rented store and your premises/customers, if any | ? |
+| Stock losses or limits from not controlling the store (shortages of space, temperature issues) | ? |
+| **Total cost of renting** | **A** |
 
-Operating costs include payroll (~US$0.5–0.75 M), electricity, fuel and truck
-maintenance, refrigeration maintenance, insurance, security, IT and admin. EBITDA is
-before loan interest, depreciation and corporate tax (30 %).
+| Cost of owning (per year, estimates) | TT$ |
+|---|---|
+| Electricity (~350,000–500,000 kWh; confirm T&TEC tariff) | 0.2 – 0.3 M |
+| Refrigeration service contract + maintenance | 0.10 – 0.15 M |
+| Insurance (building + stock) | 0.10 – 0.15 M |
+| Security | 0.15 – 0.25 M |
+| Extra warehouse staff if your landlord currently does the handling (3–4 people) | 0.25 – 0.35 M |
+| Land tax, water, miscellaneous | ~0.05 M |
+| **Total cost of owning (before loan)** | **B ≈ TT$0.85 – 1.25 M** |
 
-**The biggest levers on profit are gross margin, how fast you reach 2–3 containers a
-week, and bad debts.** In Year 1, consider renting spare space to other importers
-(per-pallet storage fees) to cover fixed costs.
+| Loan on TT$7 M (example: 8 % over 15 years) | **C ≈ TT$0.82 M/yr** |
+|---|---|
+
+**How to read it:**
+- **A − B** = annual cash saving from owning.
+- If **A − B ≥ C**, the savings alone pay the loan. With the estimates above that
+  happens when you currently spend roughly **TT$1.7–2.1 M a year (~TT$140–175 k a
+  month)** on rent, handling and related costs.
+- **Simple payback** = TT$7 M ÷ (A − B).
+
+**Other benefits to count on top of the rent saving:**
+- **Room to grow** to 800 pallets without hunting for rented space.
+- **Renting out spare space** to other importers until you fill it yourself
+  (e.g., 200 spare pallets at ~TT$150–200 per pallet per month ≈ TT$0.36–0.48 M a year).
+- **Bigger, cheaper shipments:** full containers and bulk buys when prices are good.
+- **Control** over temperature, access hours, picking and food-safety records.
+- An appreciating **property asset** on your balance sheet, which helps future borrowing.
+
+### 9.3 Working capital
+Your current stock and customer credit are **already funded**. Extra working capital
+is only needed for **growth**: each extra pallet of stock is roughly TT$20–35 k
+depending on the product. Moving from, say, 500 to 700 pallets on hand would tie up
+roughly **TT$4–7 M more** in stock, so plan growth in steps the business can fund from
+profits and trade credit.
 
 ### 9.4 Funding options
-- Commercial bank term loan for the building (typically 60–70 % of cost) secured on
-  the property
-- A trade-finance or revolving facility for import purchases (letters of credit,
-  supplier credit)
-- Equity from owners or partners
-- **EXIMBANK** trade and foreign-exchange facilities, and any current government
-  incentive or SME programs (check eligibility)
-- Supplier credit terms once you have a track record
+- **Commercial mortgage / term loan** on the land and building. The land you own and
+  your trading history strengthen the application.
+- **Equipment finance or leasing** for refrigeration, generator and forklifts, which
+  keeps cash free
+- **Trade finance** (letters of credit, supplier credit, EXIMBANK facilities) for growth stock
+- Owner equity for the deposit and contingency
 
 ---
 
@@ -409,15 +431,15 @@ week, and bad debts.** In Year 1, consider renting spare space to other importer
 
 | Phase | Months | Key activities |
 |---|---|---|
-| 1. Feasibility | 1–3 | Customer visits, supplier quotes, landed-cost model, financial model, site survey |
-| 2. **Early trading (recommended)** | 3 onward | Rent space in an existing cold store and start importing and selling. This builds customers, supplier credit and FX history before the building opens |
+| 1. Feasibility | 1–3 | Rent-vs-own analysis with current storage costs, site survey, contractor budget quotes |
+| 2. Continue trading | Throughout | Keep operating from the rented cold store. Check its notice period so the move-out lines up with phase 9 |
 | 3. Design | 3–6 | Architect, structural and refrigeration engineers; layout; T&TEC load application |
 | 4. Approvals | 5–10 | TCPD, Municipal Corporation, Fire Service, EMA, WASA, drainage. TCPD often sets the critical path |
 | 5. Financing & tender | 6–10 | Bank loan, contractor and refrigeration tenders |
 | 6. Construction | 10–16 | Site works, slab, steel frame, panels, electrical |
 | 7. Refrigeration & fit-out | 14–17 | Plant installation, racking, docks, IT |
 | 8. Commissioning | 17–18 | Slow freezer pull-down (~2–3 weeks at a few °C per day), temperature mapping, health inspection |
-| 9. Opening | 18–20 | Move stock from rented space, then ramp up volume |
+| 9. Move-in | 18–20 | Move stock in stages (chilled first, then frozen by product line), keep rented space for 1 month as a fallback, then end the lease |
 
 ---
 
@@ -440,23 +462,24 @@ week, and bad debts.** In Year 1, consider renting spare space to other importer
 
 ## 13. Next Steps
 
-1. **Survey the 1-acre site:** boundaries, shape, levels, flood history, setbacks,
-   road access, and the T&TEC supply nearby.
-2. **Build a landed-cost spreadsheet** for your top 20 products using real supplier
-   quotes, freight, CET duty, VAT, port and broker fees.
-3. **Visit 20–30 target customers** for volumes, prices and terms. Aim for trial orders.
-4. **Talk to your bank** about the building loan, trade finance and **USD FX access.**
-5. **Engage a local architect and a refrigeration contractor** for a concept layout and
-   a firm budget.
-6. **Get import requirements confirmed** for your product list (Veterinary Services,
-   CFDD, Trade Licensing Unit) through a customs broker.
-7. **Start trading early** from rented cold space if possible.
+1. **Total up your current storage costs** (rent, handling fees, transport) for the
+   last 12 months and fill in the rent-vs-own table in §9.2.
+2. **Survey the 1-acre site:** boundaries, shape, levels, flood history, setbacks,
+   road access, and the nearby T&TEC supply.
+3. **Get 2–3 design-build quotes** from T&T cold-store / refrigeration contractors for
+   the "steel shed + prefabricated cold rooms" scope in §9.1, with a phased 500 → 800
+   pallet option.
+4. **Ask T&TEC** about supply capacity and lead time for a ~400–500 kVA connection.
+5. **Talk to your bank** about a mortgage on the land and building, and equipment leasing.
+6. **Start the TCPD application early.** Approvals usually set the timeline.
+7. **Check your rental agreement's notice period** so the move-out date lines up with
+   commissioning.
 
 ---
 
 ### Information that would sharpen this plan further
-- The location and plot dimensions/shape of the 1 acre
-- Your top 10–20 products and where you plan to buy them
-- The expected split between frozen and chilled, and whether you will carry ice cream
-- Your funding available (equity vs. loan)
-- Whether you already have customers or supplier relationships
+- What you pay now for cold storage (rent + handling) per month, and how many pallets
+- The plot dimensions/shape and location
+- Your frozen vs. chilled split, and whether you carry ice cream
+- How much you want to grow in the next 3 years
+- Whether you own delivery trucks today
